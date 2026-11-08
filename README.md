@@ -22,6 +22,10 @@ wall, human takeover, a Q&A index and lead capture, all in one box you own.
 
 ## Install
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Basjoo/)
+
 ```bash
 curl -fsSL https://raw.githubusercontent.com/haoyiyin/basjoo/main/install-deploy.sh | sudo sh
 ```
